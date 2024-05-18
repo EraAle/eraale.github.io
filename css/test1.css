@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "NPS";
+    src: url(../fonts/NPSfont_regular.ttf);
+}
+
+h1 {
+    font-family: "NPS";
+}
