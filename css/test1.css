@@ -3,6 +3,14 @@
     src: url(../fonts/NPSfont_regular.ttf);
 }
 
+body{
+}
+
+h1{
+    color : #60eeba;
+}
+
 p {
     font-family: "NPS";
+    color : #ee9060;
 }
